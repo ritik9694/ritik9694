@@ -2,6 +2,8 @@
  
 🎓 Completed B.Tech in Electronics & Communication Engineering from NIT Mizoram
 💻 Passionate about Backend Development, Microservices, and Problem Solving
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 🚀 What I Do
  
@@ -12,7 +14,8 @@ Design and implement Microservices architecture for scalable systems
 Work with MySQL, REST APIs, and Web Development (HTML, CSS, JS, Bootstrap)
  
 Strong problem-solving skills in Data Structures & Algorithms (Java/C++)
- 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 🛠️ Tech Stack
  
@@ -23,14 +26,16 @@ Frameworks: Spring Boot, Bootstrap
 Databases: MySQL
  
 Core Concepts: OOP, DBMS, DSA, Microservices, REST APIs
- 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 🌱 Currently Exploring
  
 Spring Boot (Advanced) & Microservices
  
 Kafka, Docker, and Cloud technologies
- 
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 📌 Projects
  
@@ -38,7 +43,7 @@ Kafka, Docker, and Cloud technologies
  
 🎟 Event360 Booking System (Microservices) – Spring Boot + REST APIs
  
- 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 📫 Let’s Connect
  
