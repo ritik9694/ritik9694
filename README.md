@@ -1,16 +1,47 @@
-## Hi there 👋
-
-<!--
-**ritik9694/ritik9694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Hrithik Kumar
+ 
+🎓 Completed B.Tech in Electronics & Communication Engineering from NIT Mizoram
+💻 Passionate about Backend Development, Microservices, and Problem Solving
+ 
+🚀 What I Do
+ 
+Develop Java & Spring Boot based backend applications
+ 
+Design and implement Microservices architecture for scalable systems
+ 
+Work with MySQL, REST APIs, and Web Development (HTML, CSS, JS, Bootstrap)
+ 
+Strong problem-solving skills in Data Structures & Algorithms (Java/C++)
+ 
+ 
+🛠️ Tech Stack
+ 
+Languages: Java, C++, SQL, JavaScript
+ 
+Frameworks: Spring Boot, Bootstrap
+ 
+Databases: MySQL
+ 
+Core Concepts: OOP, DBMS, DSA, Microservices, REST APIs
+ 
+ 
+🌱 Currently Exploring
+ 
+Spring Boot (Advanced) & Microservices
+ 
+Kafka, Docker, and Cloud technologies
+ 
+ 
+📌 Projects
+ 
+📖 trading management system(microservices) – Spring Boot + REST APIs
+ 
+🎟 Event360 Booking System (Microservices) – Spring Boot + REST APIs
+ 
+ 
+ 
+📫 Let’s Connect
+ 
+💼 [LinkedIn](https://www.linkedin.com/in/hrithik-kumar-bb408b252/)
+ 
+📧 ritikyadaw9@gmail.com
